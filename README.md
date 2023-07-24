@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me? Email: leroycochlovius1998@hotmail.com
 
-- If you want to see my repositories please contact me with your account name so i can give you access
+- If you want to see my repositories please contact me with your GitHub username or email address so i can give you access
